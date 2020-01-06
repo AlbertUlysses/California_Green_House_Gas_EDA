@@ -3,5 +3,10 @@ Exploratory Data Analysis of California's Green House Gas emissions. The data se
 
 
 ### Motivation
-This Analysis was a chance to explore data about California's Co2 Equivalent emissions. The purpose is explain where most of the California's Agencies Co2E is coming from. 
-I attempt to answer several questions and look at ways that the data collection can improve to better answer some of the questions.
+This Analysis was a chance to explore data about California's Co2 Equivalent emissions. 
+I attempt to answer several questions ways that the data collection can improve. 
+
+### Running on local machine
+If you are interested in running/improving the code on a local machine a ``` requirements.txt``` and file is provided. 
+
+
